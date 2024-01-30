@@ -15,7 +15,7 @@
     "format",
     "immutable"
   ],
-  "repository": "https://github.com/marnusw/date-fns-tz",
+  "repository": "https://github.com/DarrellTheWoof/date-fns-tz",
   "engine": {
     "node": ">= 0.11"
   },
